@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-Recent computer networking graduate with a strong foundation in web development, AI, and machine learning. currently focused on machine learning development.
+Recent computer networking graduate with a strong foundation in web development, AI, and machine learning. currently focused on machine learning.
 
-🌍  I'm based in United Arab Emirates
 🖥️  See my portfolio at My Potfolio
-✉️  You can contact me at eyasuaraya0@gmail.com
 🧠  I'm learning Machine learning model deployment
-🤝  I'm open to collaborating on NLP projects
+
